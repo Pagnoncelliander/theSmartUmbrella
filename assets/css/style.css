@@ -311,9 +311,16 @@ body {
     height: 460px;
 }
 
-
-
-
+/*woman oppening  the umbrella*/
+.container-umbrella-woman{
+    display: inline-block;
+    margin-left: 30px;
+ 
+}
+.image8{
+    width: 370px;
+    margin-left: -5px;
+}
 
 /* bottom of page */
 
