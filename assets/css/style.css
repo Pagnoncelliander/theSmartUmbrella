@@ -539,25 +539,36 @@ footer>p {
 }
 
 @media screen and (max-width: 950px) {
+    .img1{
+        width: 200px;
+    }
+
+    .img2{
+        width: 200px
+    }
 
     .gallery-card {
-        margin-left: 170px;
+        margin: auto;
     }
 
     .gallery-card2 {
-        margin-left: 200px;
+        margin-left: 50px;
     }
 
     .gallery-card3 {
-        margin-left: 130px;
+        margin-left: 0px;
     }
 
     .gallery-card-left {
-        margin-left: 130px;
+        margin-left: 0px;
     }
 
     .gallery-card-labs-chair {
-        margin-left: 130px;
+        margin-left: 220px;
+    }
+    
+    .image8{
+        width: 180px;
     }
 }
 
@@ -619,133 +630,130 @@ footer>p {
 }
 
 
-@media screen and (max-width: 717px) {
-    .gallery-card2 {
-        margin-left: 5px;
-        max-width: 270px;
-        min-width: 150px;
-    }
-
-    .video {
-        height: 400px;
-    }
-
-}
-
-
-@media screen and (max-width: 559px) {
-    .header-nav ul {
-        margin: 0px;
-        padding: 5px;
-    }
-
-    .gallery-card {
-        margin-left: 0px;
-    }
-
-    .gallery-card3 {
-        margin-left: 0px;
-    }
-
-    .gallery-card-left {
-        margin-left: 0px;
-    }
-
-    .gallery-card-labs-chair {
-        margin-left: 0px;
-    }
-
-    .text1 {
-        margin-left: 300px;
-        bottom: 5px;
-    }
-
-    .text1 h2 {
-        font-size: 15px;
-        text-align: center;
-    }
-
-    .text1 h3 {
-        font-size: 30px;
-        padding-top: 10px;
-        text-align: center;
-    }
-}
-
 @media screen and (max-width: 559px){
+ 
+    .text1 h2{
+        padding-bottom: 30px;  
+      }
+     
+      .text1 h3{
+          font-size: 20px;
+          padding-bottom: 30px;  
+      }
+  
+      .header-top{
+          text-align: center;
+      }
+  
+      .header-nav a{
+          font-size: 10px;
+      }
+  
+      .gallery-card{
+          margin-left: auto;
+      }
+  
+      .img1{
+          width: 200px;
+          height: 300px;
+      }
+  
+      .gallery{
+          padding-left: center;
+      }
+  
+      .featured h2{
+         font-size: 25px;
+         padding-left: 1px;
+      }
+  
+      .gallery-card2{
+          margin: auto;
+      }
+  
+      .about{
+          height: 400px;
+      }
+  
+      .about h2{
+          font-size: 20px;
+      }
+     
+      .video {
+          width: 250px;
+          height: 250px;
+      }
+  
+      .video {
+      margin-left: -60px;
+      }
+  
+      .image7 {
+          width: 320px;
+          height: 280px;
+      }
+  
+      .img5 {
+          width: 320px;
+          height: 280px;
+      }
+      
+      .image8{
+          width: 200px;
+          margin-left: auto;
+      }
+  }
+
+
+@media screen and (max-width: 345px){
+
+    .text1 h2{
+      padding-bottom: 30px;  
+    }
+   
+    .text1 h3{
+        font-size: 20px;
+        padding-bottom: 30px;  
+    }
+
     .header-top{
         text-align: center;
     }
-    .header-nav a{
-        font-size: 15px;
-    }
-    .gallery-card{
-        margin-left: auto;
-    }
 
-    .video-umbrella{
-        margin: 0px;
-    }
-
-    .gallery-card2{
-        margin: auto;
-    }
-
-    .video {
-        height: 800px;
-        height: 350px;
-        
-    }
-
-    .image7 {
-        width: 350px;
-        height: 300px;
-    }
-
-    .img5 {
-        width: 350px;
-        height: 300px;
-
-    }
-    .container-umbrella-woman{
-        margin-right: auto;
-    }
-
-}
-
-
-
-@media screen and (max-width: 335px){
-    .header-top{
-        text-align: center;
-    }
     .header-nav a{
         font-size: 10px;
     }
+
     .gallery-card{
         margin-left: auto;
     }
+
     .img1{
-        width: 200px;
-        height: 300px;
+        width: 150px;
+        height: 250px;
     }
 
-    
+    .gallery{
+       padding-left: 0px;
+    }
 
     .gallery-card2{
         margin: auto;
     }
+
     .about{
         height: 400px;
     }
+
     .about h2{
-        font-size: 20px;
+        font-size: 12px;
     }
    
     .video {
         width: 250px;
         height: 250px;
     }
+
     .video {
     margin-left: -60px;
     }
@@ -758,11 +766,20 @@ footer>p {
     .img5 {
         width: 320px;
         height: 280px;
-
     }
     
     .image8{
         width: 200px;
         margin-left: auto;
+    }
+    .img2{
+        width: 250px;
+    }
+    .gallery-card2{
+        margin: auto;
+    }
+    .image8{
+        width: 200px;
+        height: 300px;
     }
 }
