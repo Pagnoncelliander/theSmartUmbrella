@@ -2,7 +2,6 @@
 
 body {
     font-family: GT America, Quicksand, monospace;
-    border: 2px solid rgba(255, 255, 255, 0.7);
     background-color: rgba(248, 235, 235, 0.7);
     margin: 0;
 }
@@ -20,7 +19,7 @@ body {
 
 }
 
-#name-top-left {
+h1 {
     font-size: 40px;
     text-transform: uppercase;
     margin-top: 0;
@@ -67,7 +66,7 @@ body {
 
 .header-nav a:hover {
     color: rgba(241, 109, 107, .7);
-    ;
+    
 }
 
 
@@ -76,7 +75,6 @@ body {
     width: 100%;
     overflow: hidden;
     position: relative;
-
 }
 
 .imglogo {
@@ -97,6 +95,7 @@ body {
 
     letter-spacing: 2px;
     text-transform: uppercase;
+    
 
 }
 
@@ -188,6 +187,10 @@ body {
     color: #555;
     overflow: auto;
 }
+#gallery2 h2{
+    text-align: center;
+    font-size: 40px;
+}
 
 .gallery-card2 {
     display: inline-block;
@@ -235,8 +238,9 @@ body {
     margin-right: -2px;
     margin-left: 20px;
     margin-top: 2px;
-
-
+    border: 3px solid white;
+    border-radius: 10px;
+   
 }
 
 .gallery-card3 h3 {
@@ -260,7 +264,9 @@ body {
     margin-right: -2px;
     margin-left: 2px;
     margin-top: 2px;
-    top: 20px
+    top: 20px;
+    border: 3px solid white;
+    border-radius: 10px;
 }
 
 .gallery-card-left h3 {
@@ -282,6 +288,8 @@ body {
     margin-right: -2px;
     margin-left: 2px;
     margin-top: 2px;
+    border: 3px solid white;
+    border-radius: 10px;
 }
 
 .gallery-card-labs-chair {
@@ -312,8 +320,9 @@ body {
 /*woman oppening  the umbrella*/
 .container-umbrella-woman{
     display: inline-block;
-    margin-left: 30px;
- 
+    margin-left: 40px;
+    margin-top: 10px;
+    border-radius: 20PX;
 }
 .image8{
     width: 370px;
@@ -372,41 +381,59 @@ footer>p {
 
 /*form*/
 
-.form-umbrella {
-    clear: left;
-    background-size: cover;
-    background-position: center;
-    height: 150px;
-    background-color: rgba(248, 160, 160, 0.6);
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgba(241, 160, 158, 0.7);
+    max-width: 400px;
+    position: relative;
+    left: 10%;
+    padding: 30px;
+    margin-left: 30%;
+    border-radius: 30px;
+    margin-bottom: 300px;
+    margin-top: 300px;
 }
 
-.form-umbrella {
-    border: 1px solid rgb(221, 131, 131);
-    text-align: center;
-    padding-top: 90px;
-    padding-bottom: 90px;
+.signup-form > h2 {
+    color: #000000;
+    margin-bottom: 20px;
+    margin-left: 60px;
+}
 
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #e9bfbf;
 }
 
 .join-button {
     margin-top: 20px;
-    border-radius: 1px;
+    margin-left: 140px;
+    border-radius: 2px;
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: rgb(241, 186, 185, 0.7);
-    color: black;
-
-}
-
-.text-input {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #ef9191;
+    color: #000000;
+    display: block;
+    
 }
 
 .join-button:hover {
-    background-color: #e15252;
-    color: #f6ecec;
+    background-color: #fafafa;
+    color: #f16c6b;
 }
+
+
 
 
 /* Media queries */
@@ -448,6 +475,9 @@ footer>p {
         width: 490px;
         height: 370px;
 
+    }
+    .image8{
+        width: 300px;
     }
 }
 
@@ -493,27 +523,26 @@ footer>p {
     }
 }
 
-@media screen and (max-width: 1244px) {
-    .gallery-card {
-        margin-left: 130px;
+@media screen and (max-width: 1280px){
+    .img2{
+        width: 300px;
+    }
+    .img1{
+        width: 250px;
     }
 
-    .gallery-card3 {
-        margin-left: 300px;
+    .image8{    
+        width: 240px;
     }
-
-    .gallery-card-left {
-        margin-left: 300px;
+    .form-umbrella{
+        margin: auto;
     }
-
-    .gallery-card-labs-chair {
-        margin-left: 300px;
+    .form-umbrella{
+        margin: auto;
     }
-
 }
 
-
-@media screen and (max-width: 1120px) {
+@media screen and (max-width: 1217px) {
 
     .img1{
         width: 220px;
@@ -740,9 +769,6 @@ footer>p {
           text-align: center;
       }
   
-      .header-nav a{
-          font-size: 10px;
-      }
   
       .gallery-card{
           margin-left: auto;
@@ -800,15 +826,54 @@ footer>p {
   }
 
 
-@media screen and (max-width: 345px){
+@media screen and (max-width: 380px){
+ 
+    .header-top h1{
+        flex-direction: column;
+        text-align: center;
+    }
 
-    .text1 h2{
-      padding-bottom: 30px;  
+    .header-nav li{
+        flex-direction: column;
+        align-items: unset;
+        float: none;
+        text-align: center;
+    }
+
+    .header-nav a {
+        font-size: 30px;
+    }
+
+    
+    .smart-umbrella-top{
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        font-size: 200%;
+        text-align: center;
+        display: flex;
+        background-color: rgb(3, 0, 0);
     }
    
-    .text1 h3{
-        font-size: 20px;
-        padding-bottom: 30px;  
+    .text1{
+        margin-top: 0PX;
+        margin-bottom: 5000px;
+        
+       }
+        .text1 h2{
+          padding-bottom: 30px; 
+          text-align: center; 
+        }
+       
+        .text1 h3{
+            font-size: 20px;
+            padding-bottom: 30px; 
+            text-align: center;   
+        }
+    
+    
+    .imgtop{
+        top: 7em;
     }
 
     .header-top{
@@ -816,26 +881,26 @@ footer>p {
     }
 
     .header-nav a{
-        font-size: 10px;
+        font-size: 15px;
     }
 
     .gallery-card{
-        margin-left: auto;
+        margin-left: 60px;
     }
 
     .img1{
-        width: 150px;
-        height: 250px;
+        width: 160px;
+        height: 210px;
     }
 
     .gallery{
        padding-left: 0px;
+       margin-top: 150px;
     }
 
     .gallery-card2{
         margin: auto;
     }
-
     .about{
         height: 400px;
     }
@@ -863,27 +928,39 @@ footer>p {
         height: 280px;
     }
     
-    .image8{
-        width: 200px;
-        margin-left: auto;
-    }
     .img2{
-        width: 250px;
+        width: 200px;
     }
     .gallery-card2{
-        margin: auto;
+        margin-left: 60px;
     }
-    .image8{
-        width: 200px;
-        height: 300px;
-    }
+  
     .gallery-card-left{
-        margin-left: auto;
+        margin-left: 30px;
+        border: none;
     }
     .gallery-card-labs-chair{
-        margin-left: auto;
+        margin-left: 30px;
+        border: none;
     }
     .gallery-card3{
-        margin-left: auto;
+        margin-left: 30px;
+        border: none;
     }
+    .signup-form{
+        margin-left: 0;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    
+    /*umbrella Gallery*/
+    .Umbrella-gallery{
+        top: 7em;
+        height: 500px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+    }
+
+
 }
