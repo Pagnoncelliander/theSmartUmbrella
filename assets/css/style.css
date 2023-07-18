@@ -66,7 +66,6 @@ h1 {
 
 .header-nav a:hover {
     color: rgba(241, 109, 107, .7);
-    
 }
 
 
@@ -96,8 +95,6 @@ h1 {
     padding-left: 5px;
     letter-spacing: 2px;
     text-transform: uppercase;
-    
-
 }
 
 .text1 h2 {
@@ -106,7 +103,6 @@ h1 {
     position: relative;
     top: 50px;
     font-weight: bold;
-
 }
 
 .featured {
@@ -130,8 +126,6 @@ h1 {
     text-align: center;
     padding: 2px;
     margin-left: 60px;
-
-
 }
 
 
@@ -149,7 +143,7 @@ h1 {
 .about {
     border: 0px solid black;
     margin: 10px;
-    padding: 90px
+    padding: 90px;
 }
 
 .about {
@@ -193,7 +187,6 @@ h1 {
     display: inline-block;
     margin-left: 150px;
     margin-top: 0px;
-
 }
 
 .img2:hover {
@@ -211,6 +204,10 @@ h1 {
     transition: all 0.2s linear;
 }
 
+.Umbrella-gallery{
+    width: 80%;
+    margin: auto; 
+}
 
 
 /* image 1 women walking in street with an umbrella  and explanation of product be side*/
@@ -218,7 +215,6 @@ h1 {
 .gallery5 {
     color: #555;
     margin: 50px 0 0 0;
-
 }
 
 .gallery-card3 {
@@ -228,7 +224,6 @@ h1 {
     margin-top: 2px;
     border: 3px solid white;
     border-radius: 10px;
-   
 }
 
 .gallery-card3 h3 {
@@ -297,7 +292,6 @@ h1 {
 .image7 {
     width: 620px;
     height: 460px;
-
 }
 
 .img5 {
@@ -311,7 +305,8 @@ h1 {
     margin-left: 40px;
     margin-top: 10px;
 }
-.image8{
+
+.image8 {
     width: 370px;
     margin-left: -5px;
 }
@@ -339,7 +334,6 @@ footer>span {
 footer>p {
     color: black;
     text-transform: uppercase;
-
 }
 
 
@@ -351,13 +345,11 @@ footer>p {
     width: 40px;
     font-size: 40px;
     color: black;
-
 }
 
 
 .social-networks li{
     margin-left: 10px;
-  
 }
 
 .address {
@@ -411,8 +403,7 @@ footer>p {
     font-size: 100%;
     background-color: #ef9191;
     color: #000000;
-    display: block;
-    
+    display: block; 
 }
 
 .join-button:hover {
@@ -429,43 +420,43 @@ footer>p {
 
 
 @media screen and (max-width: 1636px) {
-    .gallery-card {
+ .gallery-card {
         margin-left: 20px;
-    }
+ }
 
-    .img1 {
+.img1 {
         width: 300px
-    }
+ }
 
-    .gallery-card2 {
+.gallery-card2 {
         margin-left: 40px;
-    }
+}
 
-    .gallery-card3 {
+ .gallery-card3 {
         margin-left: 10px;
-    }
+ }
 
-    .gallery-card-left {
+.gallery-card-left {
         margin-left: 0px;
-    }
+}
 
-    .gallery-card-labs-chair {
+.gallery-card-labs-chair {
         margin-left: 0px;
-    }
+}
 
-    .image7 {
+.image7 {
         width: 490px;
         height: 370px;
-    }
+}
 
-    .img5 {
-        width: 490px;
-        height: 370px;
+.img5 {
+    width: 490px;
+    height: 370px;
 
-    }
-    .image8{
-        width: 280px;
-    }
+}
+.image8{
+     width: 290px;
+ }
 }
 
 
@@ -760,10 +751,6 @@ footer>p {
       .img1{
           width: 200px;
           height: 300px;
-      }
-  
-      .gallery{
-          padding-left: center;
       }
   
       .featured h2{
