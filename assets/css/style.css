@@ -204,8 +204,11 @@ h1 {
     transition: all 0.2s linear;
 }
 
+
+/*umbrella gallery*/
+
 .Umbrella-gallery{
-    width: 80%;
+    width: 90%;
     margin: auto; 
 }
 
@@ -360,13 +363,14 @@ footer>p {
 
 /*form*/
 
+
 .signup-form {
-    margin: 150px 10% 0 0;
+    margin: 100px 5% 0 0;
     color: #fff;
     background-color: rgba(241, 160, 158, 0.7);
     max-width: 400px;
     position: relative;
-    left: 10%;
+    left: 6%;
     padding: 30px;
     margin-left: 30%;
     border-radius: 30px;
@@ -457,6 +461,11 @@ footer>p {
 .image8{
      width: 290px;
  }
+
+ .umbrella-content{
+    margin-left: auto;
+}
+
 }
 
 
@@ -499,6 +508,11 @@ footer>p {
         width: 270px;
 
     }
+
+    .umbrella-content{
+        margin-left: auto;
+    }
+    
 }
 
 @media screen and (max-width: 1280px){
@@ -518,6 +532,10 @@ footer>p {
     .form-umbrella{
         margin: auto;
     }
+    .umbrella-content{
+        margin-left: auto;
+    }
+    
 }
 
 @media screen and (max-width: 1217px) {
@@ -566,6 +584,10 @@ footer>p {
     .image8{
         width: 210px;
     }
+    .umbrella-content{
+        margin-left: auto;
+    }
+    
 }
 
 @media screen and (max-width: 950px) {
@@ -600,6 +622,10 @@ footer>p {
     .image8{
         width: 170px;
     }
+    .umbrella-content{
+        margin-left: auto;
+    }
+    
 }
 
 
@@ -729,6 +755,10 @@ footer>p {
     .image8{
         width: 140px;
     }
+    .umbrella-content{
+        margin-left: auto;
+    }
+    
 }
 
 
@@ -806,6 +836,10 @@ footer>p {
           width: 200px;
           margin-left: auto;
       }
+      .umbrella-content{
+        margin-left: auto;
+    }
+    
   }
 
 
@@ -878,7 +912,7 @@ footer>p {
 
     .img1{
         width: 160px;
-        height: 210px;
+        height: 230px;
     }
 
     .gallery{
@@ -888,6 +922,11 @@ footer>p {
 
     .gallery-card2{
         margin: auto;
+    }
+
+    .gallery-card p{
+        padding: 2px;
+        border: #555;
     }
     .about{
         height: 400px;
@@ -941,14 +980,8 @@ footer>p {
         margin-bottom: 40px;
     }
     
-    /*umbrella Gallery*/
-    .Umbrella-gallery{
-        top: 7em;
-        height: 500px;
-        width: 100%;
-        overflow: hidden;
-        position: relative;
+    .container-umbrella-woman{
+        margin-left: 70px;
     }
-
 
 }
