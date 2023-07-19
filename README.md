@@ -12,7 +12,7 @@ opening inverted and avoid people to get wet when close it, the structure doesnâ
 
 
 # STRUCTUERE
-## HEADER SECTION NAVEGATION BAR
+### HEADER SECTION NAVEGATION BAR
 
 - the responsive navigation bar includes gallery of picture for each umbrella, contact and sign in 
 gallery page brings you to umbrella galleries.
@@ -22,29 +22,32 @@ gallery page brings you to umbrella galleries.
 ![sign_contact_gallery](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/3d604cd5-e08e-41b1-8c20-dec3bb2ce57b)
 
 
-## HEADER IMAGE
+### HEADER IMAGE
 
 - this picture introduce you to header page for all responsive pixels .
 
 ![HEADER IAMGEPAGE IMAGE](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/a1fccc56-c07f-4b41-9815-2c01cf212fe4)
 
-## WHY WE LOVE UMBRELLA INVERTED
+### WHY WE LOVE UMBRELLA INVERTED
 
 I have created a section image showing features of the umbrella, some description and colour attached under the picture. This should encourage the user to continue on the page and scroll drown. 
 
 ![why loves umbrella inverted](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/f919bbdf-0a10-43b5-a904-64eae4ea93b0)
 
 
-## VIDEO ATTACHED
+### VIDEO ATTACHED
 
 This section has an attached a video with all utilities of smart umbrella which can be used.
 
 ![video attached](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/73ef28d5-dedb-4876-ba5b-d5c2d0129e93)
 
 
-## GALLERY
+### GALLERY
 
 this section has nine pictures of different colours , this link will take the user to another page with a bigger picture of umbrella in features.
+
+![gallery images](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/94960755-054e-45c0-b155-fa876415fb1d)
+
 
 
 ## reversed design to umbrella and explanation
@@ -54,14 +57,14 @@ here has three pictures and some examples of how to use the smart umbrella durin
 ![reversed design to umbrela and explanation](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/085a52dd-e31c-4af6-a67d-368c5ffc0fd8)
 
 
-## PICTURE OF HOW TO OPEN THE UMBRELLA 
+### PICTURE OF HOW TO OPEN THE UMBRELLA 
 
 to understand better how this umbrella opens and closes there is five images in a sequence.
 
 ![picure of women oppinning the umbrella ](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/defac475-79c6-47af-8caf-157a3621f67d)
 
 
-## SIGN-IN TO JOIN OUR MAILLING LIST.
+### SIGN-IN TO JOIN OUR MAILLING LIST.
 
 This section, who I have created a box to SIGN-IN and the user will receive all the information and news for future releases. this main list
 it is easy to fill up and submit.
@@ -69,14 +72,14 @@ it is easy to fill up and submit.
 ![SIGN IN JOIN OUR MAILLING LIST](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/9e1f4b94-e526-4e43-99fc-4c87da3beb66)
 
 
-## FOOTER
+### FOOTER
     The gallery will provide support for the users to contact the company from different medias
 
 ![footer](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/f129af3d-3bb5-403f-9bc7-1384f0513258)
 
 
 
-  ## GALLERY IMAGE
+  ### GALLERY IMAGE
 
    * If the user click on the umbrella image in home page will open this section with an umbrella inverted image attached zoomed.
 
