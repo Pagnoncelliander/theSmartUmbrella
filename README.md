@@ -1,6 +1,7 @@
 
 SMART UMBRELLA RESPONSIVE
-![Alt text](image-2.png)
+![responsive](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/62bb17a3-152b-4b67-b738-e69b14a07d64)
+
 # PURPOSE
 This project is  apresentation of a New umbrella Design and concept, the smart umbrella 
 open inverted and avoid peoples to be wet when close it, the structure no broke in the winding wheater
