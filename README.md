@@ -19,21 +19,21 @@ gallery page brings you to umbrella galleries.
 
 - this section allows you to go to different sections of home page.
 
-
-![HEADER IAMGEPAGE IMAGE](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/a1fccc56-c07f-4b41-9815-2c01cf212fe4)
+![sign_contact_gallery](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/3d604cd5-e08e-41b1-8c20-dec3bb2ce57b)
 
 
 ## HEADER IMAGE
 
 - this picture introduce you to header page for all responsive pixels .
 
-[https://github.com/Pagnoncelliander/theSmartUmbrella/issues/3#issue-1812522897](https://github.com/Pagnoncelliander/theSmartUmbrella/issues/3#issue-1812522897)
+![HEADER IAMGEPAGE IMAGE](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/a1fccc56-c07f-4b41-9815-2c01cf212fe4)
 
 ## WHY WE LOVE UMBRELLA INVERTED
 
 I have created a section image showing features of the umbrella, some description and colour attached under the picture. This should encourage the user to continue on the page and scroll drown. 
 
-[![Alt text](image-5.png)](https://github.com/Pagnoncelliander/theSmartUmbrella/issues/11#issue-1812538120)https://github.com/Pagnoncelliander/theSmartUmbrella/issues/11#issue-1812538120
+![why loves umbrella inverted](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/f919bbdf-0a10-43b5-a904-64eae4ea93b0)
+
 
 ## VIDEO ATTACHED
 
@@ -51,33 +51,36 @@ this section has nine pictures of different colours , this link will take the us
 
 here has three pictures and some examples of how to use the smart umbrella during the day.
 
-https://github.com/Pagnoncelliander/theSmartUmbrella/issues/7#issue-1812536954
+![reversed design to umbrela and explanation](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/085a52dd-e31c-4af6-a67d-368c5ffc0fd8)
+
 
 ## PICTURE OF HOW TO OPEN THE UMBRELLA 
 
 to understand better how this umbrella opens and closes there is five images in a sequence.
 
-https://github.com/Pagnoncelliander/theSmartUmbrella/issues/6#issue-1812536376
+![picure of women oppinning the umbrella ](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/defac475-79c6-47af-8caf-157a3621f67d)
 
-## SIGN IN JOIN OUR MAILLING LIST.
 
-This section, who I have created a box to register and the user will receive all the information and news for future releases. this main list
+## SIGN-IN TO JOIN OUR MAILLING LIST.
+
+This section, who I have created a box to SIGN-IN and the user will receive all the information and news for future releases. this main list
 it is easy to fill up and submit.
 
-[https://github.com/Pagnoncelliander/theSmartUmbrella/issues/8#issue-1812537249](https://github.com/Pagnoncelliander/theSmartUmbrella/issues/8#issue-1812537249)https://github.com/Pagnoncelliander/theSmartUmbrella/issues/8#issue-1812537249
+![SIGN IN JOIN OUR MAILLING LIST](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/9e1f4b94-e526-4e43-99fc-4c87da3beb66)
+
 
 ## FOOTER
     The gallery will provide support for the users to contact the company from different medias
 
-[https://github.com/Pagnoncelliander/theSmartUmbrella/issues/4#issue-1812534542](https://github.com/Pagnoncelliander/theSmartUmbrella/issues/4#issue-1812534542)https://github.com/Pagnoncelliander/theSmartUmbrella/issues/4#issue-1812534542
+![footer](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/f129af3d-3bb5-403f-9bc7-1384f0513258)
+
 
 
   ## GALLERY IMAGE
 
    * If the user click on the umbrella image in home page will open this section with an umbrella inverted image attached zoomed.
 
-  [ * https://github.com/Pagnoncelliander/theSmartUmbrella/issues/5#issue-1812535507
-](https://github.com/Pagnoncelliander/theSmartUmbrella/issues/5#issue-1812535507)https://github.com/Pagnoncelliander/theSmartUmbrella/issues/5#issue-1812535507
+![gallery images](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/30ec1b9b-309a-465f-be04-7bfdcad32217)
 
 
  ## TESTING
