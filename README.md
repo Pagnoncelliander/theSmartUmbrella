@@ -20,7 +20,8 @@ gallery page brings you to umbrella galleries.
 - this section allows you to go to different sections of home page.
 
 
-[![Alt text](image-3.png)](https://github.com/Pagnoncelliander/theSmartUmbrella/issues/9#issue-1812537533)
+![HEADER IAMGEPAGE IMAGE](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/a1fccc56-c07f-4b41-9815-2c01cf212fe4)
+
 
 ## HEADER IMAGE
 
@@ -38,7 +39,7 @@ I have created a section image showing features of the umbrella, some descriptio
 
 This section has an attached a video with all utilities of smart umbrella which can be used.
 
-[https://github.com/Pagnoncelliander/theSmartUmbrella/issues/10#issue-1812537782](https://github.com/Pagnoncelliander/theSmartUmbrella/issues/10#issue-1812537782)
+![video attached](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/73ef28d5-dedb-4876-ba5b-d5c2d0129e93)
 
 
 ## GALLERY
