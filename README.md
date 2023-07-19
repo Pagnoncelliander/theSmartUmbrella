@@ -44,7 +44,9 @@ This section has an attached a video with all utilities of smart umbrella which 
 
 ### GALLERY
 
-this section has nine pictures of different colours , this link will take the user to another page with a bigger picture of umbrella in features.
+
+ - This section has nine pictures of different colours , this link will take the user to another page with a bigger picture of umbrella in features.
+
 
 ![GALLERY IMAGESS](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/6f865178-85df-4a47-9dee-0f858c7c8f75)
 
