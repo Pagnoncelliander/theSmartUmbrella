@@ -94,6 +94,11 @@ it is easy to fill up and submit.
 - CSS
         No errors were found when passing through the official (Jigsaw) validator
 
+I confirm the user easy access the lighthouse and check the parformance :
+
+  ![responsive performance](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/87a75438-7682-4402-979f-7267b0cd23af)
+
+
  ## DEPLOIMENT 
     This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
     The site was deployed to GitHub pages. The steps to deploy are as follows:
