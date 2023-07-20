@@ -94,7 +94,12 @@ it is easy to fill up and submit.
 - CSS
         No errors were found when passing through the official (Jigsaw) validator
 
-I confirm the user easy access the lighthouse and check the parformance :
+ I confirm the user easy access the lighthouse and check the performance to Desktop :
+
+  ![parformnance_desktop](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/6f2851fa-8347-4c3e-94c2-6e11299a894c)
+
+
+ I confirm the user easy access the lighthouse and check the performance to Mobile :
 
   ![responsive performance](https://github.com/Pagnoncelliander/theSmartUmbrella/assets/134398235/87a75438-7682-4402-979f-7267b0cd23af)
 
