@@ -759,13 +759,12 @@ footer>p {
         margin-left: auto;
     }
     
- .form-umbrella{
+    .form-umbrella{
         margin-left: 20px;
     }
     .signup-form{
         margin-left: 20px;
     }
-}
 }
 
 
@@ -800,15 +799,15 @@ footer>p {
       }
 
       .gallery-card3{
-        margin-left: 10px;
+        margin-left: auto;
         border: none;
       }
       .gallery-card-left{
-        margin-left: 10px;
+        margin-left: auto;
         border: none;
       }
       .gallery-card-labs-chair{
-        margin-left: 0px;
+        margin-left: auto;
         border: none;
       }
   
