@@ -759,6 +759,12 @@ footer>p {
         margin-left: auto;
     }
     
+    .form-umbrella{
+        margin-left: auto;
+    }
+    .signup-form{
+        margin-left: auto;
+    }
 }
 
 
@@ -974,14 +980,18 @@ footer>p {
         margin-left: 30px;
         border: none;
     }
-    .signup-form{
-        margin-left: 0;
-        margin-top: 40px;
-        margin-bottom: 40px;
+  
+    .form-umbrella{
+        margin-left: auto;
+        padding-left: 0;
     }
-    
     .container-umbrella-woman{
         margin-left: 70px;
+    }   
+
+    .join-button{
+        margin: auto;
+       
     }
 
 }
