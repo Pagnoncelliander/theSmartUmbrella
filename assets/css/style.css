@@ -759,12 +759,13 @@ footer>p {
         margin-left: auto;
     }
     
-    .form-umbrella{
-        margin-left: auto;
+ .form-umbrella{
+        margin-left: 20px;
     }
     .signup-form{
-        margin-left: auto;
+        margin-left: 20px;
     }
+}
 }
 
 
