@@ -70,7 +70,7 @@ h1 {
 
 
 .imgtop {
-    height: 1000px;
+    height: 900px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -78,32 +78,11 @@ h1 {
 
 .imglogo {
     width: 100%;
-    height: 1000px;
+    height: 900px;
 
 
 }
 
-.text1 {
-    position: absolute;
-    right: 30px;
-    bottom: 150px;
-    font-size: 46px;
-    color: black;
-    background-color: rgba(241, 109, 107, .7);
-    border-radius: 40px;
-    padding-right: 5px;
-    padding-left: 5px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-}
-
-.text1 h2 {
-    font-size: 30px;
-    text-align: right;
-    position: relative;
-    top: 50px;
-    font-weight: bold;
-}
 
 .featured {
     text-align: center;
@@ -568,17 +547,12 @@ footer>p {
     }
 
 
-    .text1 {
-        bottom: 70px;
-        font-size: 35px;
-    }
-
     .imgtop {
-        height: 65%;
+        height: 55%;
     }
 
     .imglogo {
-        height: 65%;
+        height: 55%;
     }
 
     .image8{
@@ -639,20 +613,12 @@ footer>p {
     .imgtop {
         max-width: 100%;
         min-width: 65%;
-        height: 75%;
+        height: 65%;
     }
 
     .imglogo {
         width: 100%;
-        height: 75%;
-    }
-
-    .text1 h2 {
-        font-size: 20px;
-    }
-
-    .text1 h3 {
-        font-size: 40px;
+        height: 65%;
     }
 
     .gallery-card {
@@ -713,14 +679,6 @@ footer>p {
         height: 75%;
     }
 
-    .text1 h2 {
-        font-size: 20px;
-    }
-
-    .text1 h3 {
-        font-size: 40px;
-    }
-
     .gallery-card {
         margin-left: 60px;
     }
@@ -769,12 +727,8 @@ footer>p {
 
 
 @media screen and (max-width: 559px){
- 
-    .text1{
-        margin-top: 0PX;
-        margin-bottom: 5000px;
-        
-       }
+    
+    
       .header-top{
           text-align: center;
       }
@@ -880,22 +834,7 @@ footer>p {
     .featured > h2{
         font-size: 15px;text-align: center;
     }
-    .text1{
-        margin-top: 0PX;
-        margin-bottom: 5000px;
         
-       }
-        .text1 h2{
-          padding-bottom: 30px; 
-          text-align: center; 
-        }
-       
-        .text1 h3{
-            font-size: 20px;
-            padding-bottom: 30px; 
-            text-align: center;   
-        }
-
     #gallery2 > h2{
         font-size: 15px;
     }
